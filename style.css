@@ -1,0 +1,26 @@
+body{
+    font-family: fantasy;
+}
+#text1{
+    color: red;
+}
+.login_div1, .login_div2{
+    background: lightblue;
+    border-style: ridge;
+    border-color: #3379B6;
+    padding: 10px;
+    float: none;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    background-color: #3379b6b3;
+    line-height: 2;
+    text-align: center;
+    
+}
+#linealink{
+    text-decoration: underline;
+}

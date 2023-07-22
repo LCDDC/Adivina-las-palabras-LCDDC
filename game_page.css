@@ -1,0 +1,20 @@
+body{
+    font-family: fantasy;
+}
+
+#fondo12{
+    color: red;
+}
+.copy_right_footer{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    background-color: #3379b6b3;
+    line-height: 2;
+    text-align: center;
+    
+}
+#linealink{
+    text-decoration: underline;
+}
